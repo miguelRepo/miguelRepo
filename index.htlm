@@ -1,19 +1,9 @@
+<!doctype html>
 <html>
-    <head>
-        <title>Bienvenido al Blog 2.0</title>
-        <link rel="stylesheet" href="css/estilos.css">
-    </head>
-    <body>
-        <div id="container">
-            <div id="cabecera">
-                Hyperblog
-                <span id="tagline"> Tu blog de confianza</span>
-            </div>
-            <div id="post"> 
-                <h1>Aqui vamos a hacer un blog post tremendo</h1>
-                <p>Y este es el parrafo de inicio donde se escriben cosas</p>
-                <p> esto es un texto cualquier bla bla 123... =)</p>
-            </div>
-        </div>
-    </body>
+  <head>
+    <title>This is the title of the webpage!</title>
+  </head>
+  <body>
+    <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
+  </body>
 </html>
