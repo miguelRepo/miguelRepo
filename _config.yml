@@ -1,12 +1,16 @@
-theme: jekyll-theme-minimal
-
+# Site settings
 title: Miguel Restrepo
 description: Aeronautical engineer exploring data, technology, and software development.
+theme: jekyll-theme-minimal
 
-# Optional enhancements:
-logo: /assets/profile.png  # Add this if you upload a profile picture
-show_downloads: false       # Hide the "Download" button if you're not offering a file
-
-# Social links (optional)
+# Contact / Social
 github_username: miguelRepo
-email: miguelrepo@hotmail.com
+email: restrepo.miguel@outlook.com
+
+# UI settings for jekyll-theme-minimal
+show_downloads: false
+# logo: /assets/profile.png   # Optional: only if you add a profile image
+
+# Build settings
+markdown: kramdown
+permalink: pretty
