@@ -1,42 +1,35 @@
 ---
 layout: default
-title: Miguel Restrepo Álvarez
+title: Miguel Restrepo
 ---
 
-# 👋 Hello, I'm Miguel Restrepo Álvarez
+# Miguel Restrepo
 
 Welcome to my personal page.
 
-I'm a tech enthusiast exploring the world of software development and digital tools.  
-I enjoy learning, building, and experimenting with new technologies.
+I am an Aeronautical Engineer with a growing interest in data, technology, and software development. My background in engineering has given me a strong foundation in problem-solving, critical thinking, and structured approaches to complex challenges.
 
-Currently using this space to share my work, document experiments, and grow as a developer.
+Currently, I’m exploring the world of data science and programming, developing skills in tools such as Python, SQL, and data visualization libraries.
 
----
-
-## 🧪 What I'm Interested In
-
-- Web development  
-- Open source projects  
-- Automation and productivity tools  
-- Learning new technologies and frameworks
+This site is a personal space where I share what I’m learning, my side projects, and experiments in technology and data.
 
 ---
 
-## 📁 Selected Projects
+## Areas of Interest
 
-You can find some of my projects and experiments on my GitHub profile:
-
-👉 [github.com/miguelrestrepo](https://github.com/miguelrestrepo)
-
----
-
-## 📫 Contact
-
-Feel free to reach out for collaboration, questions, or just to connect:
-
-- **Email:** miguelrepo@hotmail.com
+- Data analysis and visualization  
+- Programming (Python, SQL)  
+- Aerospace systems and technology  
+- Machine learning (beginner level)  
+- Automation and digital tools
 
 ---
 
-Thanks for visiting!
+## Projects
+
+You will find some of my personal and learning projects on my GitHub profile:
+
+[github.com/miguelrestrepo](https://github.com/miguelrestrepo)
+
+---
+
