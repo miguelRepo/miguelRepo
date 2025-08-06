@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
-title: miguelRepo's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+title: Miguel Restrepo
+description: Aeronautical engineer exploring data, technology, and software development.
+
+# Optional enhancements:
+logo: /assets/profile.png  # Add this if you upload a profile picture
+show_downloads: false       # Hide the "Download" button if you're not offering a file
+
+# Social links (optional)
+github_username: miguelRepo
+email: miguelrepo@hotmail.com
