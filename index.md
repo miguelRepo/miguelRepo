@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Miguel Restrepo
+# title: Miguel Restrepo
 ---
 
 # Miguel Restrepo
