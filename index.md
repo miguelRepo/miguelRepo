@@ -1,9 +1,7 @@
 ---
 layout: default
-# title: Miguel Restrepo
+title: Home
 ---
-
-# Miguel Restrepo
 
 Welcome to my personal page.
 
