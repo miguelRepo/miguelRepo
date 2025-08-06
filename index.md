@@ -29,7 +29,7 @@ This site is a personal space where I share what I’m learning, my side project
 
 You will find some of my personal and learning projects on my GitHub profile:
 
-[github.com/miguelrestrepo](https://github.com/miguelrestrepo)
+[github.com/miguelRepo](https://github.com/miguelRepo)
 
 ---
 
