@@ -15,10 +15,10 @@ This site is a personal space where I share what I’m learning, my side project
 
 ## Areas of Interest
 
-- Data analysis and visualization  
-- Programming (Python, SQL)  
+- Data  
+- Python, SQL
 - Aerospace systems and technology  
-- Machine learning (beginner level)  
+- Machine learning 
 - Automation and digital tools
 
 ---
