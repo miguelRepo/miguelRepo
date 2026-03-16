@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT specialist on a focused transition into Data Science — combining years of technical infrastructure knowledge with hands-on machine learning and analytics skills. I don't just analyze data; I understand the systems that generate it.
+I'm an Aeronautical engineer on a focused transition into Data Science — combining years of technical infrastructure knowledge in IT with hands-on machine learning and analytics skills. I don't just want to analyze data; I want understand the systems that generate it.
 
 - 🔭 Currently building end-to-end data science projects from scratch
 - 🧠 Focused on: predictive modeling, EDA, and business storytelling with data
