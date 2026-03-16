@@ -43,8 +43,6 @@ I'm an IT specialist on a focused transition into Data Science — combining yea
 
 ![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelRepo&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelRepo&layout=compact&hide_border=true&theme=default)
-
 </div>
 
 ---
