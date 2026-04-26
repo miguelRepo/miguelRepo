@@ -1,7 +1,7 @@
 <div align="center">
 
 # Miguel
-### Data Scientist in the Making · IT Background · Problem Solver
+### Data Scientist · IT Background · Problem Solver
 
 *Bridging the gap between systems thinking and data-driven decisions*
 
