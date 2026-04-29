@@ -65,5 +65,5 @@ Neural networks for scientific computing
 ---
 
 <div align="center">
-Available for Data Scientist and Simulation Engineer roles · Medellín, Colombia · Open to remote
+Available for Data Scientist and Simulation Engineer roles
 </div>
